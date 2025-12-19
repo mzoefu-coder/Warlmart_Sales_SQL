@@ -51,3 +51,53 @@ The main purpose of this project is to gain an understanding of Walmart's sales 
 
 •	Which day of the week has the best average ratings per branch?
 
+# Findings and Insights 
+
+Product line performance: 
+Fashion Accessories are bought most often.
+
+• Food & Beverages generate the most revenue.
+
+• Female customers favor Fashion Accessories.
+
+Payment Preferences : 
+• Cash is the leading payment method, with digital payments (E-wallet, Credit Card) also popular.
+
+Geographic Trends : 
+• Naypyitaw is the top city for revenue, customer spend, and VAT contributions.
+
+Sales Timing Patterns : 
+• January sees peak revenue and COGS; March is also strong, and February is lower.
+
+• Evenings, especially mid-week, have the most sales and customer engagement.
+
+Customer Type : 
+• Members spend and transact more than Normal customers, contributing more revenue and VAT.
+
+Gender & Branch Breakdown : 
+• Nearly equal male (498) and female (497) customers overall.
+
+• Branch C has more females; Branches A/B have more males.
+
+Customer Ratings : 
+• Most ratings given in the evening.
+
+• Monday has the highest average rating.
+
+• Branch A scores highest in customer satisfaction.
+
+# Recommendations
+• Boost inventory and promos for Fashion Accessories and Food & Beverages.
+
+• Target females with fashion campaigns.
+
+• Grow and incentivize the Membership Program.
+
+• Optimize staffing for evening hours.
+
+• Match Branch A’s service at other branches.
+
+• Focus marketing and resourcing in Naypyitaw and during peak sales periods.
+
+• Support both cash and digital payments.
+
